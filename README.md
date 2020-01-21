@@ -81,5 +81,4 @@ necessary experience to level up will follow this pattern:
 
 • Level 5 - 12200 XP
 
-https://github.com/Ashypilo/images/Swing.png
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Ashypilo/images/blob/master/Swing.png)
