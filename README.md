@@ -1,4 +1,4 @@
-GUI applications with the SWING framework, in order to create an RPG game.
+<strong>GUI applications with the SWING framework, in order to create an RPG game.</strong>
 
 The game can be launched in 2 modes as described below:
 
