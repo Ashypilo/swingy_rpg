@@ -44,7 +44,7 @@ map with the size calculated by the formula (level-1)*5+10-(level%2). For exampl
 hero of level 7 will be placed on a 39X39 map.
   The initial position of the hero is in the center of the map. He wins the game if he
 reaches on of the borders of the map and he will have the necessary level for the next
-level of the game Each turn he can move one position in one of the 4 four directions:
+level of the game. Each turn he can move one position in one of the 4 four directions:
 
 • North
 
@@ -68,7 +68,7 @@ If a hero wins a battle, he gains:
 
 • An artifact, which he can keep or leave.
 
-Leveling up is based on the following formula level*1000+(level − 1)2*450. So the
+Leveling up is based on the following formula: level*1000+(level − 1)2*450. So the
 necessary experience to level up will follow this pattern:
 
 • Level 1 - 1000 XP
