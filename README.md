@@ -6,7 +6,7 @@ $java -jar swingy-1.0.jar console
 
 $java -jar swingy-1.0.jar gui
 
-You can switch between console view and GUI view at runtime, without closing the game.
+<i>You can switch between console view and GUI view at runtime, without closing the game.</i>
 
 A player can have multiple heroes of different types. We leave it at you to name the hero
 types and fine tune the different starting stats between them, When the player starts the
