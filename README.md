@@ -1,10 +1,10 @@
-<b>GUI applications with the SWING framework, in order to create an RPG game.</b>
+<h3>GUI applications with the SWING framework, in order to create an RPG game.</h3>
 
 The game can be launched in 2 modes as described below:
 
-$java -jar swingy-1.0.jar console
+<b>$java -jar swingy-1.0.jar console
 
-$java -jar swingy-1.0.jar gui
+$java -jar swingy-1.0.jar gui</b>
 
 <i>You can switch between console view and GUI view at runtime, without closing the game.</i>
 
